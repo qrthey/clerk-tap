@@ -1,0 +1,13 @@
+{:paths ["src"]
+
+ :deps
+ {io.github.nextjournal/clerk {:mvn/version "0.13.842"}}
+
+ :aliases
+ {:build
+  {:deps {io.github.clojure/tools.build
+          {:git/tag "v0.9.4" :git/sha "76b78fe"}
+
+          io.github.slipset/deps-deploy
+          {:git/sha "c6c67a065dc24ef61cae756ec836e0db179b767f"}}
+   :ns-default build}}}
