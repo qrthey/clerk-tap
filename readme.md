@@ -6,7 +6,7 @@ Nextjournal](https://github.com/nextjournal/clerk) to visualize
 
 ## Installation
 
-Clerk-Tap is available from clojars.
+Clerk-Tap is available on clojars.
 
 [![Clojars Project](https://img.shields.io/clojars/v/org.clojars.qrthey/clerk-tap.svg)](https://clojars.org/org.clojars.qrthey/clerk-tap)
 
